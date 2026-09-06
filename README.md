@@ -15,3 +15,4 @@ Para verlo localmente, abre `dist/index.html`. En GitHub Pages, Cloudflare Pages
 - Selector de país y filtros combinables.
 - Retratos incluidos localmente en formato WebP.
 - Fichas con periodos, principales acciones y conflictos.
+
